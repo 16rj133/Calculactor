@@ -1,0 +1,16 @@
+F:\c#文件\计算器\计算器\obj\Debug\ResolveAssemblyReference.cache
+F:\c#文件\计算器\计算器\obj\Debug\计算器.Form1.resources
+F:\c#文件\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+F:\c#文件\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache
+F:\c#文件\计算器\计算器\bin\Debug\计算器.exe
+F:\c#文件\计算器\计算器\bin\Debug\计算器.pdb
+F:\c#文件\计算器\计算器\obj\Debug\计算器.exe
+F:\c#文件\计算器\计算器\obj\Debug\计算器.pdb
+D:\C#\160104400133杨婷C#作业\计算器\计算器\obj\Debug\计算器.exe
+D:\C#\160104400133杨婷C#作业\计算器\计算器\obj\Debug\计算器.pdb
+D:\C#\160104400133杨婷C#作业\计算器\计算器\bin\Debug\计算器.exe
+D:\C#\160104400133杨婷C#作业\计算器\计算器\bin\Debug\计算器.pdb
+D:\C#\160104400133杨婷C#作业\计算器\计算器\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\160104400133杨婷C#作业\计算器\计算器\obj\Debug\计算器.Form1.resources
+D:\C#\160104400133杨婷C#作业\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+D:\C#\160104400133杨婷C#作业\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache
